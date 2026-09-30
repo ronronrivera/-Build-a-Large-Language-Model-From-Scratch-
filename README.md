@@ -1,7 +1,7 @@
 # Build a Large Language Model From Scratch
 
 <p align="center">
-  <img src="path/to/your-image.png" alt="Project banner" width="700">
+  <img width="798" height="1000" alt="image" src="https://github.com/user-attachments/assets/394da045-a5c7-4e5f-9274-571fd2bb65d9" />
 </p>
 
 This repository is my hands-on journey of building a GPT-style Large Language Model from the ground up, following Sebastian Raschka's book **[Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)**.
